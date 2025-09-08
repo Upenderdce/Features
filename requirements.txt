@@ -1,6 +1,6 @@
+streamlit
 requests
 pandas
-streamlit
+beautifulsoup4
 rapidfuzz
-openpyxl
-
+groq
